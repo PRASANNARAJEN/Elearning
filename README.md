@@ -1,0 +1,1 @@
+This is an eLearning website designed to provide an interactive and user-friendly platform for online education. The website allows users to register, enroll in courses, and track their learning progress. It is built using HTML, CSS, PHP, JavaScript, and PostgreSQL.
